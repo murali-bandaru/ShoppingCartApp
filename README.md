@@ -21,4 +21,4 @@ This project demonstrates the use of  Encapsulation, Object-Oriented Programming
 - OOP Concepts (Encapsulation, Classes, Objects, Methods)
 - Collections (ArrayList, Scanner for input)
 - IDE: VS Code  
-- Runs on: Any platform with JVM  
+- Runs on: Any platform with JVM 
