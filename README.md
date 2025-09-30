@@ -1,4 +1,4 @@
-   🛒 Shopping Cart App (Java Mini Project)
+   🛒 Shopping Cart App 
 
 
 The "Shopping Cart App" is a simple Java console-based application that simulates a mini e-commerce shopping cart system (like Amazon/Myntra).  
